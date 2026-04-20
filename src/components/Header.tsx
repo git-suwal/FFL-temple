@@ -15,7 +15,7 @@ function Header() {
         <div className="header-container">
           <div className="header-left">
             <a
-              href="https://wa.me/your-number"
+              href="https://wa.me/your-number00"
               target="_blank"
               rel="noreferrer"
               className="social-icon"
@@ -25,7 +25,7 @@ function Header() {
             </a>
 
             <a
-              href="https://facebook.com/your-page"
+              href="https://facebook.com/"
               target="_blank"
               rel="noreferrer"
               className="social-icon"
@@ -35,7 +35,7 @@ function Header() {
             </a>
 
             <a
-              href="https://instagram.com/your-page"
+              href="https://instagram.com/"
               target="_blank"
               rel="noreferrer"
               className="social-icon"
